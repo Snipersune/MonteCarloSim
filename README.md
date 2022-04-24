@@ -1,2 +1,3 @@
 # MonteCarloSim
-Lab assignments on the course 'Monto Carlo simluations of Critical Phenomena in Physics' at Umeå University.
+Contains lab assignments of the course 'Monto Carlo simluations of Critical Phenomena in Physics' held at Umeå University.
+
