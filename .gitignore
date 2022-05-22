@@ -1,6 +1,15 @@
 #Ignore all plot, log, data and config files
-**/data/
-**/conf/
-**/plots/
-**/log/
+**/data/*
+**/conf/*
+**/plots/*
+**/log/*
+
+#To enable empty folders to be uploaded
+!**/data/.gitkeep
+!**/plots/.gitkeep
+!**/conf/.gitkeep
+!**/log/.gitkeep
+
+#Ignore 'g2' graphics library
+**/g2-0.72/
 
