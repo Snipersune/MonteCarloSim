@@ -1,0 +1,6 @@
+#Ignore all plot, log, data and config files
+**/data/
+**/conf/
+**/plots/
+**/log/
+
