@@ -2,6 +2,7 @@
 **/data/*
 **/conf/*
 **/plots/*
+**/sum/*
 **/log/*
 
 #To enable empty folders to be uploaded
@@ -9,6 +10,7 @@
 !**/plots/.gitkeep
 !**/conf/.gitkeep
 !**/log/.gitkeep
+!**/sum/.gitkeep
 
 #Ignore 'g2' graphics library
 **/g2-0.72/
