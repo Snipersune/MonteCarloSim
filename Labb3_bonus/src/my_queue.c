@@ -11,7 +11,7 @@ int front = 0;
 int rear = -1;
 int itemCount = 0;
 
-void SetQueueMAXSize(int size){
+void setQueueMAXSize(int size){
     MAX_size = size;
 }
 
@@ -60,7 +60,7 @@ void insert(int data) {
 int removeData() {
    int data = intArray[front++];
 	
-   if (front == MAX_size) {
+   if(front == MAX_size) {
       front = 0;
    }
 	

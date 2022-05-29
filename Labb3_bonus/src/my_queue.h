@@ -1,4 +1,4 @@
-void SetQueueMAXSize(int size);
+void setQueueMAXSize(int size);
 
 int init_queue();
 
